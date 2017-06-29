@@ -16,6 +16,6 @@ int main(){
 	ft_swap(&a,&b);
 	printf("After calling ft_swap a is %i and b is %i\n", a, b);
 
-	
+
 }
-*\
+*/
