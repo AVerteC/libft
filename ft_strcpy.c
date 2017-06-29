@@ -7,7 +7,9 @@ char *ft_strcpy(char *dest, char *src)
 }
 
 
-char main()
+int main()
 {
-char *ft_strcpy(*d, src);
+    char k[] = "kea";
+    char e[] = "   ";
+ft_putstr(ft_strcpy(e, k));
 }
