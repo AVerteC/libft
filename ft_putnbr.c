@@ -13,7 +13,7 @@ void ft_putnbr(int nb)
     if (nb / 10)
         ft_putnbr(nb / 10);
 
-    putchar(nb%10 + '0');
+    ft_putchar(nb%10 + '0');
 }
 
 /*int main()
@@ -30,7 +30,7 @@ ft_putnbr(nb);
 
 
 
-    
+
     if (nb == (0))
     {
     int nb = 48;

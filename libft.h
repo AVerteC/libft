@@ -10,4 +10,5 @@ void ft_is_negative(int n);
 int ft_recursive_factorial(int nb);
 void ft_ultimate_div_mod(int *a, int *b);
 void ft_putnbr(int nb);
+void ft_atoi(char *str);
 #endif
