@@ -1,7 +1,12 @@
 #ifndef LIBFT_H
-# define LIBFT_H
-# include <unistd.h>
-# include <stdio.h>
+#define LIBFT_H
+#include <unistd.h>
+#include <stdio.h>
+typedef struct s_fun
+{
+    int intfun;
+    char charfun;
+} t_fun;
 int ft_putchar(char c);
 int ft_strlen(char *str);
 void ft_swap(int *a, int *b);
