@@ -4,6 +4,7 @@ int ft_is_punct(char *str)
 {
     int sta;
     str = sta;
+
     {
     int str = 0;
     return (str);
