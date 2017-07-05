@@ -6,10 +6,11 @@ char *ft_strcpy(char *dest, char *src)
     return orig;
 }
 
-
+/*
 int main()
 {
     char k[] = "kea";
     char e[] = "   ";
 ft_putstr(ft_strcpy(e, k));
 }
+*/
