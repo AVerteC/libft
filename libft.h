@@ -16,4 +16,6 @@ int ft_recursive_factorial(int nb);
 void ft_ultimate_div_mod(int *a, int *b);
 void ft_putnbr(int nb);
 void ft_atoi(char *str);
+int ft_fibonacci(int index);
+int ft_sqrt(int nb);
 #endif
